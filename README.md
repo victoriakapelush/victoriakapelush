@@ -1,10 +1,6 @@
 ### Hi there 👋
 
-<div style="width:100%;height:0;padding-bottom:56%;position:relative;"><iframe src="https://giphy.com/embed/LMcB8XospGZO8UQq87" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div>
-
-<a href="https://giphy.com/gifs/Pluralsight-girl-woman-pluralsight-LMcB8XospGZO8UQq87">
-  
-![](https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExMnljejNkZ28xcjhnbTNuMHZxOGE0ZTdhcGUxNm05amp2bjg3d3l4cSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/LMcB8XospGZO8UQq87/giphy.gif)
+This is me[](https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExMnljejNkZ28xcjhnbTNuMHZxOGE0ZTdhcGUxNm05amp2bjg3d3l4cSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/LMcB8XospGZO8UQq87/giphy.gif)
 
 <!--
 **victoriakapelush/victoriakapelush** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
