@@ -1,6 +1,5 @@
 ### Hi there 👋
 
-This is me[](https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExMnljejNkZ28xcjhnbTNuMHZxOGE0ZTdhcGUxNm05amp2bjg3d3l4cSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/LMcB8XospGZO8UQq87/giphy.gif)
 
 <!--
 **victoriakapelush/victoriakapelush** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
